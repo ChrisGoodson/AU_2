@@ -41,7 +41,6 @@
                                             </stackView>
                                         </subviews>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                                        <rect key="contentStretch" x="0.0" y="0.0" width="0.94999999999999996" height="1"/>
                                         <constraints>
                                             <constraint firstAttribute="bottom" secondItem="Zvo-HW-62D" secondAttribute="bottom" constant="1" id="5aj-WS-nbM"/>
                                             <constraint firstAttribute="trailing" secondItem="Zvo-HW-62D" secondAttribute="trailing" id="Lxl-4J-bdC"/>
